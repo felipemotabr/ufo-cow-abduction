@@ -9,3 +9,6 @@ This is a simple project that manipulates the SVG and makes animation through CS
 
 # Author
 [Felipe Mota](https://github.com/felipemotabr)
+
+License
+MIT © UFO Cow Abduction
